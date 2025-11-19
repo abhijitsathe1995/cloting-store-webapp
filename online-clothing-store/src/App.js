@@ -37,6 +37,7 @@ const App =()=> {
           <p>Shop Now</p>
         </div>
       </div>
+      <p>Lesson 2</p>
     </div>
   );
 }
